@@ -20,10 +20,6 @@ Hi 👋, I'm Prem Narayan Sharma
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering (Artificial Intelligence & IoT)
-
-🏫 GLA University, Mathura
-
 🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 💡 I enjoy solving real-world problems using AI, Data Analytics and Software Engineering.
@@ -172,7 +168,7 @@ If you have an interesting project, feel free to connect!
 Python           ████████████░░░░░   45%
 Machine Learning ██████████░░░░░░   35%
 SQL              ████░░░░░░░░░░░░   10%
-JavaScript       ███░░░░░░░░░░░░░    7%
+Java             ███░░░░░░░░░░░░░    7%
 Other            ██░░░░░░░░░░░░░░    3%
 ```
 <!--END_SECTION:waka-->
