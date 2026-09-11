@@ -11,9 +11,9 @@ Hi 👋, I'm Prem Narayan Sharma
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=premsharma8168&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/premsharma8168?label=Followers&style=flat-square"/>
-<img src="https://img.shields.io/github/stars/premsharma8168?affiliations=OWNER&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=premsh7rma&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/premsh7rma?label=Followers&style=flat-square"/>
+<img src="https://img.shields.io/github/stars/premsh7rma?affiliations=OWNER&style=flat-square"/>
 </p>
 
 ---
@@ -213,7 +213,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/premsharma8168">
+<a href="https://github.com/premsh7rma">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -223,6 +223,14 @@ me.say_hi()
 
 <a href="https://instagram.com/e05yxai">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://reddit.com/user/e05yxai">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit"/>
+</a>
+
+<a href="https://medium.com/@e05yxai">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
 </a>
 
 </p>
@@ -235,11 +243,11 @@ If you like my projects, consider giving them a ⭐ and following my GitHub prof
 
 <p align="center">
 
-<a href="https://github.com/premsharma8168?tab=repositories">
+<a href="https://github.com/premsh7rma?tab=repositories">
 <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/premsharma8168">
+<a href="https://github.com/premsh7rma">
 <img src="https://img.shields.io/badge/👤_Follow_Me-2EA44F?style=for-the-badge"/>
 </a>
 
